@@ -1,1 +1,1 @@
-from slicer import Split, split_image
+from OpenImageSlicer import Split, split_image
